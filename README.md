@@ -1,7 +1,5 @@
 # 👋 Hi there, i am [Victor Nunes](https://vhndev.com/) 
 
-☮ Make code, not war ☮
-
 <!--
 **vhnunes/vhnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
